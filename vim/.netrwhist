@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/sunhlf/.ros/rosdep/sources.cache'
+let g:netrw_dirhist_2='/Users/sunhlf/.ssh'
+let g:netrw_dirhist_3='/Users/sunhlf/Desktop/2018fall/600/hvz/.git'
+let g:netrw_dirhist_4='/Users/sunhlf/.ssh'
+let g:netrw_dirhist_5='/Users/sunhlf/.vim'
+let g:netrw_dirhist_6='/Users/sunhlf/.vim/bundle'
